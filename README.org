@@ -2,5 +2,12 @@
 ** Table of year(s)
    - [[./2020-eng.org][Aug 31, 2020]]
 
+** What I want to say
+   Learn english is not hard, Just to see if you work hard
+   Use translators as little as possible
+   This words list will be continually updated, Let up progress together!
+
+   My personal website (blog): [[https://kiteab.ga][KiteAB's Blog]]
+
 ** License
    MIT
