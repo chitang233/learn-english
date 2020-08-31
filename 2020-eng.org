@@ -1,0 +1,34 @@
+* The english words/phrase I learned in 2020
+  | Words       | Means                          |
+  |-------------+--------------------------------|
+  | feet        | 脚 (复数); 英尺                |
+  | sentence    | 句子; 判处                     |
+  | complete    | 完成; 完整                     |
+  | framework   | 框架; 骨架                     |
+  | translate   | 翻译                           |
+  | translator  | 译者; 翻译器                   |
+  | phrase      | 词组; 短语                     |
+  | third-party | 第三方                         |
+  | footer      | 页脚                           |
+  | huge        | 庞大的                         |
+  | view        | 视图; 看法; 看                 |
+  | define      | 定义; 明确                     |
+  | forward     | 前面的; 向前; 前               |
+  | backward    | 后面的; 向后; 后; 落后; 保守的 |
+  | previous    | 以前; 前; 上一个               |
+  | hundred     | 百 (单位)                      |
+  | thousand    | 千 (单位)                      |
+  | million     | 百万 (单位)                    |
+  | horizontal  | 水平                           |
+  | vertical    | 垂直                           |
+
+** Other syntax tips
+   - The three words ~hundred~, ~thousand~, ~million~ are the *unit words*, then we can say number like this:
+     #+begin_src
+       123456: one hundred twenty-three thousand four hundred fifty-six
+     #+end_src
+   - There is a slang used in informal situations: ~cuz~
+     This word means ~because~
+
+** License
+   MIT
