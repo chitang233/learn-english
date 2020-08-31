@@ -29,6 +29,3 @@
      #+end_src
    - There is a slang used in informal situations: ~cuz~
      This word means ~because~
-
-** License
-   MIT
