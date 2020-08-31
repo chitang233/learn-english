@@ -1,0 +1,6 @@
+* The word list for me
+** Table of year(s)
+   - [[./2020-eng.org][Aug 31, 2020]]
+
+** License
+   MIT
