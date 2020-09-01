@@ -22,7 +22,7 @@
   | *horizontal* | 水平                           |
   | *vertical*   | 垂直                           |
   | manual       | 手册; 手动                     |
-
+  | shit         | amazing                        |
 ** Other syntax tips
    - The three words ~hundred~, ~thousand~, ~million~ are the *unit words*, then we can say number like this:
      #+begin_src
