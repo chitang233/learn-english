@@ -4,10 +4,10 @@
 
 ** What I want to say
    Learn english is not hard, Just to see if you work hard
-   Use translators as little as possible
-   This words list will be continually updated, Let up progress together!
 
-   My personal website (blog): [[https://kiteab.ga][KiteAB's Blog]]
+   Please use translators as little as possible
+
+   This words list will be continually updated, Let up progress together!
 
 ** License
    MIT
